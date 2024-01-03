@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("/Amazon-Home-page-clone-/images/amazon_logo.png");
     background-size: cover;
     height: 55px;
     width: 100%;
@@ -130,7 +130,7 @@ span {
 /* hero-section */
 
 .hero-section{
-    background-image: url("images/HeroImage.jpg");
+    background-image: url("/Amazon-Home-page-clone-/images/HeroImage.jpg");
     background-size: cover;
     height: 400px;
     display: flex;
@@ -226,7 +226,7 @@ ul a {
 
 }
 .logo{
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("/Amazon-Home-page-clone-/images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
